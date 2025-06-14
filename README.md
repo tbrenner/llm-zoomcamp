@@ -1,2 +1,3 @@
 # llm-zoomcamp
-https://github.com/DataTalksClub/llm-zoomcamp course
+llm-zoomcamp course
+https://github.com/DataTalksClub/llm-zoomcamp
